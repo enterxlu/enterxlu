@@ -1,5 +1,3 @@
-# EnterX
-
-## enterxlu
+# EnterX (enterxlu)
 
 Hello! Welcome to my page!
